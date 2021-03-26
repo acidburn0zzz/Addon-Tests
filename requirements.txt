@@ -1,6 +1,6 @@
 # This pulls in all the libraries needed to run Selenium tests
 # on Mozilla WebQA projects
-PyYAML==3.10
+PyYAML==5.4
 UnittestZero
 certifi==0.0.8
 chardet==2.1.1
